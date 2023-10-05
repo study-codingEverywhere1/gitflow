@@ -1,3 +1,6 @@
 로그인 UI 구현
 메인 layout 구현
-회원가입 UI 구현
+<<<<<<< Updated upstream
+회원가입 UI 구현12313123
+=======123123
+>>>>>>> Stashed changes1231
